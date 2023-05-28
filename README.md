@@ -4,7 +4,11 @@
 - 💞️ I’m looking to collaborate on Automation,Robotics and Controls project.
 - 📫 You can contact me via Github or via LinkedIn : [LinkedIn](https://www.linkedin.com/in/yashmewada/)
 - Website : [Portfolio](https://yashmewada9618.github.io/Yash-Mewada/)
-- <img src="https://i.imgur.com/qI1Jfyl.gif"  width="60%"/>
+
+
+<img src="https://i.imgur.com/qI1Jfyl.gif"  width="60%"/>
+
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yashmewada/)
 
