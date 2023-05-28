@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @yashmewada9618
-- 👀 I’m interested in Robotics. Especially in Motion and Path Planning and robotics perception.
+- 🔭 I’m currently working on Off-road Traversability of robots.
 - 🌱 I’m currently a Graduate Student of Robotics at Northeastern University.
-- 💞️ I’m looking to collaborate on Automation,Robotics and Controls project.
+- 👯 I’m looking to collaborate on Robotics, Perception, Controls and Embedded systems based projects
+- 💬 Ask me about Robotics, Embedded Systems, Mechanical Systems.
 - 📫 You can contact me via Github or via LinkedIn : [LinkedIn](https://www.linkedin.com/in/yashmewada/)
 - Website : [Portfolio](https://yashmewada9618.github.io/Yash-Mewada/)
 
