@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @yashmewada9618
-- 🔭 I’m currently working on Off-road Traversability of robots.
-- 🌱 I’m currently a Graduate Student of Robotics at Northeastern University.
+- 🔭 I’m currently working on LiDAR Intelligence.
 - 👯 I’m looking to collaborate on Robotics, Perception, Controls and Embedded systems based projects
 - 💬 Ask me about Robotics, Embedded Systems, Mechanical Systems.
 - 📫 You can contact me via Github or via LinkedIn : [LinkedIn](https://www.linkedin.com/in/yashmewada/)
