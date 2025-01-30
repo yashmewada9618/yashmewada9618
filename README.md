@@ -2,8 +2,6 @@
 - 🔭 I’m currently working on LiDAR Intelligence.
 - 👯 I’m looking to collaborate on Robotics, Perception, Controls, and Embedded systems projects
 - 💬 Ask me about Robotics, Embedded Systems, Mechanical Systems.
-- 📫 You can contact me via Github or via LinkedIn : [LinkedIn](https://www.linkedin.com/in/yashmewada/)
-- Website : [Portfolio](https://yashmewada9618.github.io/Yash-Mewada/)
 
 
 <img src="https://i.imgur.com/qI1Jfyl.gif"  width="60%"/>
